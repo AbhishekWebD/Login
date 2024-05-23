@@ -1,0 +1,128 @@
+body{
+  background-image: url("../public/image/lg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.Login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.BTN {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  /* border: 3px solid black; */
+  border-radius: 15px;
+  width: 200px;
+}
+.navlink{
+  float: right;
+}
+.icon{
+  /* display: inline-block; */
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  
+}
+.input{
+ /* background: transparent; */
+ border-radius: 15px;
+ 
+ 
+}
+.Txt{
+  text-align: center;
+  align-items: center;
+  color: black
+
+}
+.form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* min-height: 100vh; */
+
+}
+.row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.border{
+  /* border: 1px solid white; */
+  background-color: white;
+  border-radius: 20px;
+}
+
+.Bg-IMG{
+  background-image: url("../public/image/lg1.jpg");
+}
+
+
+
+
+/* *************Sign UP************** */
+.BG-COLOR{
+  /* background-image: url('public/image/signimg.jpg'); */
+  background-image: url('../public/image/login.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+  
+
+}
+.Sign-form{
+  /* background-color: white; */
+  background-image: url('../public/image/login.jpg');
+/* background: transparent; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  backdrop-filter: blur(10px);
+}
+.BTN2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  /* border: 3px solid black; */
+  /* border-radius: 15px; */
+  width: 200px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+
+}
+.BTN3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  /* border: 3px solid black; */
+  /* border-radius: 15px; */
+  width: 200px;
+  text-align: center;
+  background-color:red;
+  color: white;
+}
+.BTN4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  /* border: 3px solid black; */
+  /* border-radius: 15px; */
+  width: 200px;
+  text-align: center;
+  background-color: lightskyblue;
+  color: white;
+}
+
+ 

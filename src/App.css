@@ -1,0 +1,5 @@
+.Bg-IMG{
+  background-image: url("Login-Signup/public/image/login.jpg");
+  justify-content: center;
+  display: flex;
+}
